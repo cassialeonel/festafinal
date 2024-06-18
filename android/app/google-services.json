@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084654944930",
+    "project_id": "festanacaixa2024",
+    "storage_bucket": "festanacaixa2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084654944930:android:ae1374606fba902f564dfb",
+        "android_client_info": {
+          "package_name": "com.example.festa_na_caixa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAusAF-IvSfURANhfURHfLIznFUypIcFgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084654944930:android:0f33e4298a5bde39564dfb",
+        "android_client_info": {
+          "package_name": "com.example.festanacaixa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAusAF-IvSfURANhfURHfLIznFUypIcFgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
